@@ -1,13 +1,13 @@
-package tech.mooki.sp_project;
+package tech.mooki;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpProjectApplication {
+public class StartApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpProjectApplication.class, args);
+		SpringApplication.run(StartApplication.class, args);
 	}
 
 }
