@@ -71,6 +71,7 @@
 				<configuration>
 					<argLine>
 						-XX:+EnableDynamicAgentLoading
+						-Xshare:off
 					</argLine>
 				</configuration>
 			</plugin>
